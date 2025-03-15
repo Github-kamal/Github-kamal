@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Github-kamal
-- 👀 I’m interested in Software development &  Automation 
-- 🌱 Java, Seleninium, maven, HTML, CSS, Javsacript 
+- 👀 Software development & Test Automation 
+- 🌱 Java, Seleninium, maven, HTML, CSS, Javsacript , Tosca
 - 📫 How to reach me kamaleshbaskar@gmail.com
 
 
